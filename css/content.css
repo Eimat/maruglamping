@@ -1,0 +1,49 @@
+
+.section-title {
+  text-align: center;
+  padding: 18%;
+  color: white;
+  text-shadow: 1px 2px 3px black;
+  font-weight: lighter;
+}
+
+.section-title h1 {
+  font-weight: normal;
+}
+
+.visit {
+  color: rgb(15, 69, 73);
+}
+
+/* ---------------------------------------------------------------section */
+
+.content-wrap {
+  padding: 10% 13%;
+}
+
+.content-titletext {
+  writing-mode: vertical-rl;
+  margin: 0 auto;
+}
+
+/* --------------------------------------------------------------sub */
+
+.sub-content {
+  display: flex;
+  color: rgb(60, 170, 177);
+}
+
+.sub-photo ul {
+  display: flex;
+  margin-top: 10%;
+}
+
+.sub-photo ul li {
+  margin-right: 10px;
+}
+
+.rightcontent {
+  max-width: 50%;
+  margin-left: 50px;
+  line-height: 2.2em;
+}
