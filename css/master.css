@@ -344,6 +344,10 @@ section .title p {
   line-height: 2em;
 }
 
+.footer-p p i {
+  margin-right: 3px;
+}
+
 .footer-text nav ul {
   display: flex;
 }
