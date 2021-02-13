@@ -252,6 +252,10 @@
   
 /* contact */
 
+.contact-wrap {
+  text-align: center;
+}
+
 .contact-wrap h3 {
   font-size: 1em;
 }
